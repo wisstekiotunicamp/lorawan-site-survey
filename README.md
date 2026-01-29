@@ -1,4 +1,4 @@
-# WissTek-IoT: Lorawan site survey
+# WissTek-IoT: LoraWAN Site Survey
 
 [![Status](https://img.shields.io/badge/status-desenvolvimento-yellow)](https://github.com/WissTek-IoT/WissTek-IoT-Open-LoRaWAN)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
